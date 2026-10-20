@@ -1,6 +1,6 @@
-package game;
+package aufgabe_01.game;
 
-import engine.*;
+import aufgabe_01.engine.Agent;
 
 /**
  * Konkreter Agent.

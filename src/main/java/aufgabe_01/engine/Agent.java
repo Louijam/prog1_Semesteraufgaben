@@ -1,4 +1,4 @@
-package engine;
+package aufgabe_01.engine;
 
 /**
  * Abstrakte Basisklasse für alle steuerbaren Agenten im Spiel.

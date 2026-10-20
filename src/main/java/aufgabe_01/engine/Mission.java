@@ -1,4 +1,4 @@
-package engine;
+package aufgabe_01.engine;
 
 /**
  * Beschreibt eine Mission, die im Spiel erfüllt werden muss.

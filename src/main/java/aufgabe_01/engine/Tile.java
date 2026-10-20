@@ -1,4 +1,4 @@
-package engine;
+package aufgabe_01.engine;
 
 /**
  * Beschreibt den Untergrund einer Kachel des Spielfelds.

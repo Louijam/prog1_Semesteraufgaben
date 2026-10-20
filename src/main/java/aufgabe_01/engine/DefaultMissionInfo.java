@@ -1,4 +1,4 @@
-package engine;
+package aufgabe_01.engine;
 
 import java.util.EnumMap;
 import java.util.Map;

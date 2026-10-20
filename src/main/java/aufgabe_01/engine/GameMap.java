@@ -1,4 +1,4 @@
-package engine;
+package aufgabe_01.engine;
 
 import java.awt.Point;
 import java.awt.geom.Point2D;

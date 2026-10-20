@@ -1,11 +1,13 @@
-import engine.Screen;
-import engine.Agent;
+package aufgabe_01;
+
+import aufgabe_01.engine.Screen;
+import aufgabe_01.engine.Agent;
 
 import java.awt.geom.Rectangle2D;
 import java.util.ArrayList;
 import java.util.List;
 
-import game.Player;
+import aufgabe_01.game.Player;
 import de.gurkenlabs.litiengine.Game;
 
 

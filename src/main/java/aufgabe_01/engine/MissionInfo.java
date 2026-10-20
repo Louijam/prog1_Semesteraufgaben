@@ -1,4 +1,4 @@
-package engine;
+package aufgabe_01.engine;
 
 /**
  * Stellt einem Agenten Informationen über die aktuelle Mission zur Verfügung.
