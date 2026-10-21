@@ -1,1 +1,3 @@
 rootProject.name = 'Prog1_Praktika'
+include 'Aufgabe_01'
+include 'Aufgabe_02'

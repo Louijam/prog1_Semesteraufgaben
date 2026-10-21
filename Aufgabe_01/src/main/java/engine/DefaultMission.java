@@ -1,4 +1,4 @@
-package aufgabe_01.engine;
+package engine;
 
 /**
  * Mission, bei der ein Agent eine bestimmte Anzahl an Items sammeln

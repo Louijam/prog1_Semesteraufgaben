@@ -28,5 +28,5 @@ java {
 }
 
 application {
-    mainClass = 'aufgabe_01/Program'
+    mainClass = 'Program'
 }

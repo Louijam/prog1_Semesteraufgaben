@@ -1,4 +1,4 @@
-package aufgabe_01.engine;
+package engine;
 
 /**
  * Beschreibt die verschiedenen Arten von Items, die im Spiel vorkommen können.

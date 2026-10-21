@@ -1,4 +1,4 @@
-package aufgabe_01.engine;
+package engine;
 
 /**
  * Beschreibt den aktuellen Zustand einer Spielsitzung.

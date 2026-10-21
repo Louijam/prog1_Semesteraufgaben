@@ -1,13 +1,12 @@
-package aufgabe_01.engine;
+package engine;
 
+import de.gurkenlabs.litiengine.entities.Creature;
+
+import javax.imageio.ImageIO;
 import java.awt.geom.Point2D;
 import java.awt.geom.Rectangle2D;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
-
-import javax.imageio.ImageIO;
-
-import de.gurkenlabs.litiengine.entities.Creature;
 
 
 /**

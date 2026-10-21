@@ -6,6 +6,13 @@
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="C:\Gradle\gradle-9.6.1-all\gradle-9.6.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Aufgabe_01" />
+            <option value="$PROJECT_DIR$/Aufgabe_02" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>

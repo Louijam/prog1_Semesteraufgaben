@@ -1,4 +1,4 @@
-package aufgabe_01.engine;
+package engine;
 
 /**
  * Repräsentiert ein Item, das sich entweder auf dem Kurs
