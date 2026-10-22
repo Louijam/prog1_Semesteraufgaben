@@ -1,14 +1,18 @@
 package engine;
 
-import de.gurkenlabs.litiengine.Game;
-import de.gurkenlabs.litiengine.gui.screens.GameScreen;
-
-import javax.imageio.ImageIO;
-import java.awt.*;
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.Graphics2D;
+import java.awt.Point;
 import java.awt.geom.Rectangle2D;
-import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.util.List;
+import java.awt.image.BufferedImage;
+
+import javax.imageio.ImageIO;
+
+import de.gurkenlabs.litiengine.Game;
+import de.gurkenlabs.litiengine.gui.screens.GameScreen;
 
 
 /**

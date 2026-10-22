@@ -1,8 +1,6 @@
 package engine;
 
-import de.gurkenlabs.litiengine.Game;
-
-import java.awt.*;
+import java.awt.Point;
 import java.awt.geom.Point2D;
 import java.awt.geom.Rectangle2D;
 import java.io.BufferedReader;
@@ -13,6 +11,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
+
+import de.gurkenlabs.litiengine.Game;
 
 
 /**

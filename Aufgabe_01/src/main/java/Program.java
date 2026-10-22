@@ -1,11 +1,12 @@
-import engine.Agent;
 import engine.Screen;
-import game.Player;
-import de.gurkenlabs.litiengine.Game;
+import engine.Agent;
 
 import java.awt.geom.Rectangle2D;
 import java.util.ArrayList;
 import java.util.List;
+
+import game.Player;
+import de.gurkenlabs.litiengine.Game;
 
 
 /**
@@ -24,7 +25,7 @@ public class Program {
 
         // Level-Datei für das Spielfeld und die Mission festlegen.
         // Dateiname kann beim Start als Argument übergeben werden
-        String levelFile = "level/reachGoal_1.txt";
+        String levelFile = "level/reachGoal_2.txt";
         if (args.length > 0) {
             levelFile = args[0];
         }   
